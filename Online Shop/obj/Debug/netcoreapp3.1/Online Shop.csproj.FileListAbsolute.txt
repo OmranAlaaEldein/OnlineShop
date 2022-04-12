@@ -1,0 +1,95 @@
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Online Shop.exe
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Online Shop.deps.json
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Online Shop.runtimeconfig.json
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Online Shop.runtimeconfig.dev.json
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Online Shop.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Online Shop.pdb
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Online Shop.Views.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Online Shop.Views.pdb
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.csproj.AssemblyReference.cache
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.AssemblyInfoInputs.cache
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.AssemblyInfo.cs
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.csproj.CoreCompileInputs.cache
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.RazorAssemblyInfo.cache
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.RazorAssemblyInfo.cs
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\staticwebassets\Online Shop.StaticWebAssets.Manifest.cache
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\staticwebassets\Online Shop.StaticWebAssets.xml
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\scopedcss\bundle\Online Shop.styles.css
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.TagHelpers.input.cache
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.TagHelpers.output.cache
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.RazorCoreGenerate.cache
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.RazorTargetAssemblyInfo.cache
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.RazorTargetAssemblyInfo.cs
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.Views.pdb
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.csproj.CopyComplete
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.pdb
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\obj\Debug\netcoreapp3.1\Online Shop.genruntimeconfig.cache
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Omran Alaa Eldein\Desktop\work\Online Shop\Online Shop\Online Shop\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
